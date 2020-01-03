@@ -38,11 +38,3 @@ def using_flatten(array)
   array.flatten
 end
 
-def using_delete(array, string)
-  while array.include?(string) do
-    array.delete[array.index(string)]
-end
-
-def using_delete_at(array, integer)
-  array.delete[integer]
-end
