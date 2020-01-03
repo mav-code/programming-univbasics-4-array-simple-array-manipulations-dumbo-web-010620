@@ -4,13 +4,13 @@ end
 
 def using_unshift(array, string)
 
-end using_pop
+end
 
-def
+def using_pop
 
 end
 
-def
+def pop_with_args
 
 end
 
